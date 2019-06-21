@@ -1,4 +1,4 @@
-# JSConf.be 2019 - Bruges (BE)
+# [JSConf.be 2019](https://www.jsconf.be/en) - Bruges (BE)
 
 Javascript international conference 20th-21th June in Bruges, Belgium.
 
