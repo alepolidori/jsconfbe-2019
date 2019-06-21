@@ -25,6 +25,6 @@ Javascript international conference 20th-21th June in Bruges, Belgium.
 
 Here is the demo of the [HTML5 SIP Phone WebRTC](https://github.com/alepolidori/janus-webrtc-phone) showed during the talk and how to use it with your own private [NethServer VoIP PBX.](https://github.com/alepolidori/howto-nethserver-voip-pbx)
 
-## Bakend Signaling Server
+## Backend Signaling Server
 
 [NethServer VoIP PBX](https://github.com/alepolidori/howto-nethserver-voip-pbx)
