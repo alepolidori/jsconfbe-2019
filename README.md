@@ -20,3 +20,11 @@ Javascript international conference 20th-21th June in Bruges, Belgium.
 - [webrtcindex.com](https://webrtcindex.com/)
 - [WebRTC glossary](https://webrtcglossary.com/)
 - [NethCTI - Video calls in production](https://youtu.be/wKM-Qe3aEjo?t=15) (YouTube)
+
+## Client demo: HTML5 SIP Phone WebRTC
+
+Here is the demo of the [HTML5 SIP Phone WebRTC](https://github.com/alepolidori/janus-webrtc-phone) showed during the talk and how to use it with your own private [NethServer VoIP PBX.](https://github.com/alepolidori/howto-nethserver-voip-pbx)
+
+## Bakend Signaling Server
+
+[NethServer VoIP PBX](https://github.com/alepolidori/howto-nethserver-voip-pbx)
