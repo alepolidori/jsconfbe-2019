@@ -4,7 +4,7 @@ Javascript international conference 20th-21th June in Bruges, Belgium.
 
 ## Talk
 
-- Presentation... (to be published)
+- [Presentation](https://www.slideshare.net/ale_polidori/presentation-at-jconfbe-2019-alessandro-polidori)
 - Schedule: ["Javascript WebRTC: make JS Audio & Video Phone calls from your Web App"](https://www.jsconf.be/en/schedule)
 
 # References
